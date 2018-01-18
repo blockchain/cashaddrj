@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# Mac OS X clutter
+*.DS_Store
+
+log/
+target/
+src/main/java/META-INF/
+classes/
+out/
